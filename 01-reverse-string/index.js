@@ -1,4 +1,8 @@
+// INSTRUCTIONS
 // Given a string as an argument, return a reversed string.
+//
+// Example:
+// reversestring('abc'); -> 'cba'
 
 // Solution 1
 const reversestring1 = (string) => {
